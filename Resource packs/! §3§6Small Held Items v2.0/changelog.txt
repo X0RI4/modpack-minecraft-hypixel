@@ -1,0 +1,87 @@
+Changelog v2.0
+- Slightly tweaked all models to be overall a bit bigger. Main difference is in weapons.
+
+- Changelog v1.8.1
+	- Fixed the errors appearing in logs
+	- Add support for when you are pulling back a trident
+
+-Changelog v1.8
+	- Update to 1.21.9, this pack will not show up in versions before this
+	- Added support for copper golem statue, shelf, and copper nugget
+	- Remade all held block models due to the introduction of the shelf and on_shelf display type
+	
+	Due to this remake there may be some bugs. Report them in the discord
+
+-Changelog v1.7
+	- Fixed all errors that were in the log file with this pack equipped (This drops support for versions before 1.21.4)
+	- Added support for dried ghast which is like other head models
+	- Adjusted head and heavy core models
+	- Fixed lectern model in inventory since they shrunk it in 1.21.6
+	- Changed pumpkin model to be have orientable as a parent model
+	- Adjusted button model
+	- Changed some models to use the orientable as the parent model instead of modifying each individually
+	- Removed unmodified trident model
+	- Changed conduit model slightly
+	- Adjusted totem item model
+	- Made a few other minor changes to the pack
+
+-Changelog v1.6.1
+	- Removed scute model as it is renamed to turtle_scute
+	- Changed how you hold beds and banners to be more consistant with other blocks -> If you have feedback on these changes you can say them on the [PMC forum](https://www.planetminecraft.com/texture-pack/small-held-items/)
+	- Fixed 1.21.4 breaking some models
+
+-Changelog v1.6
+	- Changed how decorated pots are held in first person ([MC-114274](https://bugs.mojang.com/browse/MC-114274))
+	- Fixed how you hold bamboo fence gates
+	- Fixed the weird 3rd person holding of both dripleafs
+	- Made heavy core and skull models the same
+	- Made how you hold the mace consistant with other weapons
+	- Added a changelog inside the pack for my own sake
+	- Fixed translucency issues with the pack icon
+
+-Changelog v1.5
+
+    Added support for 1.13-1.21
+
+
+-Changelog v1.4
+
+    Updated the Icon - Thanks Zoovadude
+    Adjusted the way end portals to match the way you place them.
+    Lowered how you hold blocks. The old version is still out in the Raised-Blocks releases if you liked that version more.
+
+
+-Changelog v1.3:
+
+    Maces and Heavy cores are now supported.
+
+
+-Changelog v1.2 for 1.20-1.20.x:
+
+    Moved the way you hold hanging roots down
+    Fixed the way you hold spore blossoms
+
+1.20.5 / 1.21
+
+    Changed the way you hold the crafter and vault (MC-114274)
+    Moved the way you hold armadillo scute down a bit
+
+
+-Changelog 1.1:
+
+Changed the way you hold the following to match how you place it (MC-114274)
+
+    Command Blocks + Jigsaw, Trapdoors, Fence Gates, Calibrated Sculk Sensor, Stonecutter
+    Changed the way banners are held
+    Changed the way buttons are held
+
+Position Change
+
+    Moved Up: Poppy, Blue Orchid, Red Mushroom
+    Moved Down: Sunflower, Nether Sprouts, Pitcher Pod, Kelp, Scute, Bow, Big Dripleaf, Daylight Sensor
+
+Other Changes
+
+    Made conduits bigger
+    Fixed hanging roots not being smaller
+    Changed shield on right hand to match left hand

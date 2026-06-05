@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/smaller_item",
+  "display": {
+    "firstperson_righthand": {
+		"rotation": [0, 45, 0],
+		"translation": [0, 2, 0],
+		"scale": [0.225, 0.225, 0.225]
+	}
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "gui_light": "front",
+  "parent": "minecraft:block/small_dripleaf_top",
+  "display": {
+    "thirdperson_righthand": {
+		"rotation": [ 75, 45, 0 ],
+		"translation": [ 0, 2.5, 0],
+		"scale": [ 0.5, 0.5, 0.5 ]
+	},
+	"firstperson_righthand": {
+      "rotation": [ 0, 135, 0 ],
+      "translation": [ 0, 1.5, 0 ],
+      "scale": [ 0.25, 0.25, 0.25 ]
+    }
+  }
+}

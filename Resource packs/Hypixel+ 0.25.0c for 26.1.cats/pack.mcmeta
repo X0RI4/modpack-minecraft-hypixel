@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "min_format": 69, "max_format": 84,
+    "description": [
+      {"text":"  H","color":"#FFFDE0","bold":true},
+      {"text":"yp","color":"#FDF55F","bold":true},
+      {"text":"ix","color":"#FAD64A","bold":true},
+      {"text":"el","color":"#DC9613","bold":true},
+      {"text":"+ ","color":"#B26411","bold":true},
+      {"text":"0.25.0c ","color":"aqua","bold":false},
+      {"text":"for 26.1\n","color":"gray","bold":false},
+      {"text":"      REQUIRES CATHARSIS","color":"red","bold":false}
+    ]
+  }
+}
